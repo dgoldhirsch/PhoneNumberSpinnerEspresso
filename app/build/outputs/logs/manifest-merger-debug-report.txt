@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:design:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4fc988e9074c805244e5bb714402a914/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c7dcfc9333adcd7df949e9f67ac9b2dd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/28fd2a97b624e5f81b338e4e1f43767b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8c077a5ca103f7494ab300202ee4796d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64faca810dbb78c47c93f7d35bcaa648/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/ee966c06c9d2a81e89c51a15ce3cadb3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/00f01909a5d8955519fa6891f6b20f32/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c5ac5beecccfae3d64ee5f1af22602a3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f8960a6582e2d467bd32d2877e2433b6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/680c562991e97d7c9409c4c7a1b1b931/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ef36963a376c8496c914ac81f9860b0f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/02e2e06da926c551d9cbf88017b00f79/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fc66f4ef9fc3f76abad92d6bd5a6e380/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2649f8dd5ea2fea5328111a0470af6d4/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:19:5-53
+		INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:21:5-35:19
+MERGED from [com.android.support:design:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4fc988e9074c805244e5bb714402a914/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4fc988e9074c805244e5bb714402a914/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c7dcfc9333adcd7df949e9f67ac9b2dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c7dcfc9333adcd7df949e9f67ac9b2dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/28fd2a97b624e5f81b338e4e1f43767b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/28fd2a97b624e5f81b338e4e1f43767b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8c077a5ca103f7494ab300202ee4796d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8c077a5ca103f7494ab300202ee4796d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64faca810dbb78c47c93f7d35bcaa648/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64faca810dbb78c47c93f7d35bcaa648/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/ee966c06c9d2a81e89c51a15ce3cadb3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/ee966c06c9d2a81e89c51a15ce3cadb3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/00f01909a5d8955519fa6891f6b20f32/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/00f01909a5d8955519fa6891f6b20f32/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c5ac5beecccfae3d64ee5f1af22602a3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c5ac5beecccfae3d64ee5f1af22602a3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f8960a6582e2d467bd32d2877e2433b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f8960a6582e2d467bd32d2877e2433b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/680c562991e97d7c9409c4c7a1b1b931/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/680c562991e97d7c9409c4c7a1b1b931/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ef36963a376c8496c914ac81f9860b0f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ef36963a376c8496c914ac81f9860b0f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/02e2e06da926c551d9cbf88017b00f79/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/02e2e06da926c551d9cbf88017b00f79/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fc66f4ef9fc3f76abad92d6bd5a6e380/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fc66f4ef9fc3f76abad92d6bd5a6e380/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2649f8dd5ea2fea5328111a0470af6d4/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2649f8dd5ea2fea5328111a0470af6d4/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.phonenumberspinner.MainActivity
+ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4fc988e9074c805244e5bb714402a914/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4fc988e9074c805244e5bb714402a914/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c7dcfc9333adcd7df949e9f67ac9b2dd/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c7dcfc9333adcd7df949e9f67ac9b2dd/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/28fd2a97b624e5f81b338e4e1f43767b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/28fd2a97b624e5f81b338e4e1f43767b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8c077a5ca103f7494ab300202ee4796d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8c077a5ca103f7494ab300202ee4796d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64faca810dbb78c47c93f7d35bcaa648/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64faca810dbb78c47c93f7d35bcaa648/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/ee966c06c9d2a81e89c51a15ce3cadb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/ee966c06c9d2a81e89c51a15ce3cadb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/00f01909a5d8955519fa6891f6b20f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/00f01909a5d8955519fa6891f6b20f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c5ac5beecccfae3d64ee5f1af22602a3/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c5ac5beecccfae3d64ee5f1af22602a3/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f8960a6582e2d467bd32d2877e2433b6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f8960a6582e2d467bd32d2877e2433b6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/680c562991e97d7c9409c4c7a1b1b931/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/680c562991e97d7c9409c4c7a1b1b931/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ef36963a376c8496c914ac81f9860b0f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ef36963a376c8496c914ac81f9860b0f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/02e2e06da926c551d9cbf88017b00f79/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/02e2e06da926c551d9cbf88017b00f79/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fc66f4ef9fc3f76abad92d6bd5a6e380/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fc66f4ef9fc3f76abad92d6bd5a6e380/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2649f8dd5ea2fea5328111a0470af6d4/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2649f8dd5ea2fea5328111a0470af6d4/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4fc988e9074c805244e5bb714402a914/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidgoldhirsch/personal/google-android-tutorials/PhoneNumberSpinnerEspresso/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4fc988e9074c805244e5bb714402a914/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c7dcfc9333adcd7df949e9f67ac9b2dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c7dcfc9333adcd7df949e9f67ac9b2dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8c077a5ca103f7494ab300202ee4796d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8c077a5ca103f7494ab300202ee4796d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64faca810dbb78c47c93f7d35bcaa648/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64faca810dbb78c47c93f7d35bcaa648/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/ee966c06c9d2a81e89c51a15ce3cadb3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/ee966c06c9d2a81e89c51a15ce3cadb3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/00f01909a5d8955519fa6891f6b20f32/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/00f01909a5d8955519fa6891f6b20f32/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c5ac5beecccfae3d64ee5f1af22602a3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c5ac5beecccfae3d64ee5f1af22602a3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f8960a6582e2d467bd32d2877e2433b6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f8960a6582e2d467bd32d2877e2433b6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/680c562991e97d7c9409c4c7a1b1b931/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/680c562991e97d7c9409c4c7a1b1b931/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ef36963a376c8496c914ac81f9860b0f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ef36963a376c8496c914ac81f9860b0f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/02e2e06da926c551d9cbf88017b00f79/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/02e2e06da926c551d9cbf88017b00f79/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fc66f4ef9fc3f76abad92d6bd5a6e380/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fc66f4ef9fc3f76abad92d6bd5a6e380/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4fc988e9074c805244e5bb714402a914/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4fc988e9074c805244e5bb714402a914/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2649f8dd5ea2fea5328111a0470af6d4/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2649f8dd5ea2fea5328111a0470af6d4/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/davidgoldhirsch/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2649f8dd5ea2fea5328111a0470af6d4/AndroidManifest.xml:26:13-58
